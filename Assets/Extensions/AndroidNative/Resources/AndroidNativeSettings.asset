@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a04884765aeeb4749909d668fc086f5c, type: 3}
+  m_Name: AndroidNativeSettings
+  m_EditorClassIdentifier: 
+  EnableGamesAPI: 1
+  EnableAppStateAPI: 1
+  LoadProfileIcons: 1
+  LoadProfileImages: 1
+  LoadQuestsImages: 1
+  LoadQuestsIcons: 1
+  LoadEventsIcons: 1
+  ShowStoreKitParams: 1
+  ShowPSSettings: 0
+  ShowActions: 1
+  base64EncodedPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq2q71J2bo9ia1u15g8JzFaPrzJ0tkJNIb8U7EsnB+jiYIsuwZu9b73MAJcxg6xTaCHYOi5O/ml/S/+iMIwNQ5iDQAF3G0tK/GXMeVVgAIBpY4rsScLH3BIAdmTonQBVso3R5C2Wtz7ZtjE7WxtfNarQegeGPqujcp0h//g+yivhIc5HmuXJ11r8j6uPBRbh+uyBeg35RY0sy2NVam5eoqO3DeuIGyXPwywejCg4kZf4ACdLMXVcVaTrnu69GA/Fv18nHzyUutrP79wZiKOP9WrIljeUIu+8mS+PW08jXdYGUnEemp4IVWIpII1GN8K2Hsp5e42fzFxqJbci4TvrRCwIDAQAB
+  InAppProducts:
+  - no_ads
