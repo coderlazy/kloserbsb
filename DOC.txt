@@ -1,0 +1,17 @@
+Tất cả các thao tác làm việc trong thư mục asset
+1. thư mục script: chưa các file mã nguồn game
+2. thư mục prefab : chưa các object game
+3. thư mục scence : chứa các màn của game
+
+Chúng ta chủ yếu làm việc với thư mục script
+folder score chưa các thư viện.
+folder Data là các script đọc dữ liệu
+Object chứa các script điều khiển object
+UI các thao tác với giao diện
+Waypoint là điều khiển các đội hình chướng ngạu vật
+
+-- chính
+hành động của player do BallController.cs điều khiển
+hành động của các thành phần khác các script còn lại trong thư mục Object điều khiển.
+---
+
